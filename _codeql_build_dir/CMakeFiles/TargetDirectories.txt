@@ -1,3 +1,0 @@
-/home/runner/work/test_repo_esp/test_repo_esp/_codeql_build_dir/CMakeFiles/ui.dir
-/home/runner/work/test_repo_esp/test_repo_esp/_codeql_build_dir/CMakeFiles/edit_cache.dir
-/home/runner/work/test_repo_esp/test_repo_esp/_codeql_build_dir/CMakeFiles/rebuild_cache.dir
