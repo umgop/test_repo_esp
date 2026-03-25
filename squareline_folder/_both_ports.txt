@@ -1,2 +1,0 @@
-/dev/cu.usbmodem1101
-/dev/cu.usbmodem2101
