@@ -1,1 +1,0 @@
-/Users/umeshgopi/Library/Arduino15/packages/esp32/tools/esptool_py/5.1.0/esptool
