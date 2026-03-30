@@ -1,0 +1,38 @@
+====================================================
+  Driving Eyes — PNG → Packed JPEG Converter
+====================================================
+  Source : /Users/umeshgopi/Downloads/driving-eyes-animation
+  Output : /Users/umeshgopi/finalhope/test_repo_esp/driving_eyes/data
+  Quality: 50
+
+--- LEFT ---
+  181 frames  →  JPEG quality 50
+    converted 30/181  (73 KB so far)
+    converted 60/181  (146 KB so far)
+    converted 90/181  (216 KB so far)
+    converted 120/181  (289 KB so far)
+    converted 150/181  (361 KB so far)
+    converted 180/181  (434 KB so far)
+    converted 181/181  (437 KB so far)
+  → left.dat  437 KB  (0.43 MB)
+
+--- RIGHT ---
+  181 frames  →  JPEG quality 50
+    converted 30/181  (74 KB so far)
+    converted 60/181  (147 KB so far)
+    converted 90/181  (217 KB so far)
+    converted 120/181  (290 KB so far)
+    converted 150/181  (362 KB so far)
+    converted 180/181  (436 KB so far)
+    converted 181/181  (438 KB so far)
+  → right.dat  439 KB  (0.43 MB)
+
+====================================================
+  DONE!
+  left.dat  : 0.43 MB
+  right.dat : 0.43 MB
+  Total     : 0.86 MB
+====================================================
+
+  Next: run  python3 upload_spiffs.py  to flash data to ESP32,
+  or use Arduino IDE SPIFFS upload plugin.

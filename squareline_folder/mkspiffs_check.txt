@@ -1,0 +1,5 @@
+/Users/umeshgopi/Library/Arduino15/packages/esp32/tools/mkspiffs/0.2.3/mkspiffs
+/Users/umeshgopi/Library/Arduino15/packages/esp32/tools/mklittlefs/4.0.2-db0513a/mklittlefs
+===ESPTOOL_CHECK===
+esptool v5.2.0
+5.2.0

@@ -1,0 +1,54 @@
+Opening /dev/cu.usbmodem1101 @ 115200...
+Resetting ESP32 via DTR...
+Waiting for boot (5 seconds)...
+=== BOOT OUTPUT ===
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x29 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x403790e6
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+E (121) esp_core_dump_flash: No core dump partition found!
+E (121) esp_core_dump_flash: No core dump partition found!
+
+========================================
+  Driving Eyes Animation
+  ESP32-S3 Touch 3.5B  |  480x320
+========================================
+  Init display…
+  Mounting SPIFFS…
+  SPIFFS  total=12462401  used=906612
+  Free PSRAM: 8384480 bytes (8.0 MB)
+
+--- LEFT animation ---
+  Loading /left.dat …
+  File size: 448628 bytes (0.43 MB)
+  Frames: 181
+  JPEG data: 447896 bytes (0.43 MB)
+  OK — free PSRAM: 7933916 bytes
+--- RIGHT animation ---
+  Loading /right.dat …
+  File size: 450187 bytes (0.43 MB)
+  Frames: 181
+  JPEG data: 449455 bytes (0.43 MB)
+  OK — free PSRAM: 7483352 bytes
+
+  Free PSRAM after load: 7.1 MB
+
+========================================
+  READY — send a command:
+    L  →  Left eye animation
+    R  →  Right eye animation
+    S  →  Stop (black screen)
+========================================
+
+
+=== SENDING 'L' ===
+=== RESPONSE AFTER 'L' ===
+>> LEFT animation
+
+=== DONE ===
